@@ -1,1 +1,1 @@
-# Image-Slider-of-js
+![Uploading image.png…]()
